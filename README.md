@@ -93,21 +93,6 @@ Citizen Registration  →  Aadhaar OTP Verification  →  Live Face Recognition 
 https://github.com/user-attachments/assets/f11d1b46-c1ab-4314-94b9-82024e100286
 </div>
 
-### 🖼️ Screenshots
-
-<div align="center">
-
-|Registration| Aadhaar OTP Screen | Face Verification | Voting Ballot |
-|:---:|:---:|:---:|:---:|
-| ![OTP](screenshots/otp.png) || ![OTP](screenshots/otp.png) | ![Face](screenshots/face.png) | ![Vote](screenshots/vote.png) |
-
-| Admin Dashboard | Tableau Analytics | Anomaly Flags | Audit Log |
-|:---:|:---:|:---:|:---:|
-| ![Admin](screenshots/admin.png) | ![Tableau](screenshots/tableau.png) | 
-
-</div>
-
----
 
 ## 🏗️ System Architecture
 
@@ -120,10 +105,10 @@ https://github.com/user-attachments/assets/f11d1b46-c1ab-4314-94b9-82024e100286
 ┌──────────────────────────────▼──────────────────────────────────────────┐
 │                         DJANGO APPLICATION LAYER                        │
 │                                                                         │
-│  ┌─────────────┐  ┌──────────────┐  ┌────────────┐  ┌──────────────┐  │
-│  │  poll app   │  │  FaceDetect  │  │    OVS     │  │  Auth/RBAC   │  │
-│  │  (ballots)  │  │  (OpenCV)    │  │  (session) │  │  (roles)     │  │
-│  └─────────────┘  └──────────────┘  └────────────┘  └──────────────┘  │
+│  ┌─────────────┐  ┌──────────────┐  ┌────────────┐  ┌──────────────┐    │
+│  │  poll app   │  │  FaceDetect  │  │    OVS     │  │  Auth/RBAC   │    │
+│  │  (ballots)  │  │  (OpenCV)    │  │  (session) │  │  (roles)     │    │
+│  └─────────────┘  └──────────────┘  └────────────┘  └──────────────┘    │
 └──────────────────────────────┬──────────────────────────────────────────┘
                                │
 ┌──────────────────────────────▼──────────────────────────────────────────┐
@@ -771,7 +756,14 @@ of this software... [see LICENSE.txt for full text]
 
 Made with ❤️ for a more accessible, secure, and transparent democracy.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+## 📞 Contact & Support
+
+Have questions about the project? Want to collaborate?
+
+- 📧 **Email:** catchbilvasaieswar@gmail.com
+- 🐛 **Issues:** [Report a bug](https://github.com/maddibilvasai4125/Groundwater-Data-Interpretation-Platform/issues)
+- 💬 **Discussions:** [Join the conversation](https://github.com/maddibilvasai4125/Groundwater-Data-Interpretation-Platform/discussions)
+
+---
 
 </div>
