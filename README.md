@@ -756,10 +756,18 @@ of this software... [see LICENSE.txt for full text]
 
 Made with ❤️ for a more accessible, secure, and transparent democracy.
 
+## 👤 Author
 
-- 📧 **Email:** catchbilvasaieswar@gmail.com
+**Bilva Sai Eswar Maddi**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+- 🐙 GitHub: [@maddibilvasai4125](https://github.com/maddibilvasai4125)
+- 💼 LinkedIn: [Bilva Sai Eswar Maddi](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
+- 📧 Email: catchbilvasaieswar@gmail.com
+- 🌐 Portfolio: [My Portfolio](https://bilvasaieswarmaddi.com/)
+
+  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/maddibilvasai4125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
 
 </div>
