@@ -756,14 +756,10 @@ of this software... [see LICENSE.txt for full text]
 
 Made with ❤️ for a more accessible, secure, and transparent democracy.
 
-## 📞 Contact & Support
-
-Have questions about the project? Want to collaborate?
 
 - 📧 **Email:** catchbilvasaieswar@gmail.com
-- 🐛 **Issues:** [Report a bug](https://github.com/maddibilvasai4125/Groundwater-Data-Interpretation-Platform/issues)
-- 💬 **Discussions:** [Join the conversation](https://github.com/maddibilvasai4125/Groundwater-Data-Interpretation-Platform/discussions)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 </div>
