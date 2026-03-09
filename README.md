@@ -721,6 +721,14 @@ git push origin feature/your-amazing-feature
 - [ ] 🧾 Verifiable paper trail (VPT) generation for offline backup
 
 ---
+## 👤 Author
+
+**Bilva Sai Eswar Maddi**
+
+- 🐙 GitHub: [@maddibilvasai4125](https://github.com/maddibilvasai4125)
+- 💼 LinkedIn: [Bilva Sai Eswar Maddi](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
+- 📧 Email: catchbilvasaieswar@gmail.com
+- 🌐 Portfolio: [My Portfolio](https://bilvasaieswarmaddi.com/)
 
 ## 📄 License
 
@@ -756,14 +764,6 @@ of this software... [see LICENSE.txt for full text]
 
 Made with ❤️ for a more accessible, secure, and transparent democracy.
 
-## 👤 Author
-
-**Bilva Sai Eswar Maddi**
-
-- 🐙 GitHub: [@maddibilvasai4125](https://github.com/maddibilvasai4125)
-- 💼 LinkedIn: [Bilva Sai Eswar Maddi](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
-- 📧 Email: catchbilvasaieswar@gmail.com
-- 🌐 Portfolio: [My Portfolio](https://bilvasaieswarmaddi.com/)
 
   
 
