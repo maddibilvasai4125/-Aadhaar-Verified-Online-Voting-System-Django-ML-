@@ -1,11 +1,6 @@
-# -Aadhaar-Verified-Online-Voting-System-Django-ML-
-Built a secure Django-based online voting system with Aadhaar OTP verification, ML-powered face recognition, liveness checks, and Tableau dashboards to enforce “one person, one vote” and enable real-time election oversight.
-
-
-
 
 <div align="center">
-
+https://github.com/user-attachments/assets/899df88f-c8fa-4ec8-8416-1106d91a15cb
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,50:283593,100:3949ab&height=200&section=header&text=Aadhaar%20Authenticated%20Online%20Voting%20System&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Secure%20%7C%20Verified%20%7C%20Transparent%20%7C%20Democratic&descAlignY=58&descSize=16" width="100%"/>
 
@@ -35,7 +30,7 @@ Built a secure Django-based online voting system with Aadhaar OTP verification, 
 
 
 </div>
-https://github.com/user-attachments/assets/899df88f-c8fa-4ec8-8416-1106d91a15cb
+
 ---
 
 ## 📌 Table of Contents
