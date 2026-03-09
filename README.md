@@ -97,13 +97,13 @@ https://github.com/user-attachments/assets/f11d1b46-c1ab-4314-94b9-82024e100286
 
 <div align="center">
 
-| Registration Portal | Aadhaar OTP Screen | Face Verification | Voting Ballot |
+| Aadhaar OTP Screen | Face Verification | Voting Ballot |
 |:---:|:---:|:---:|:---:|
-| ![Register](screenshots/register.png) | ![OTP](screenshots/otp.png) | ![Face](screenshots/face.png) | ![Vote](screenshots/vote.png) |
+| ![OTP](screenshots/otp.png) | ![Face](screenshots/face.png) | ![Vote](screenshots/vote.png) |
 
 | Admin Dashboard | Tableau Analytics | Anomaly Flags | Audit Log |
 |:---:|:---:|:---:|:---:|
-| ![Admin](screenshots/admin.png) | ![Tableau](screenshots/tableau.png) | ![Anomaly](screenshots/anomaly.png) | ![Audit](screenshots/audit.png) |
+| ![Admin](screenshots/admin.png) | ![Tableau](screenshots/tableau.png) | 
 
 </div>
 
