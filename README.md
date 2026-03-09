@@ -32,7 +32,7 @@
 ---
 
 
-https://github.com/user-attachments/assets/f11d1b46-c1ab-4314-94b9-82024e100286
+
 
 
 ## 📌 Table of Contents
@@ -91,7 +91,7 @@ Citizen Registration  →  Aadhaar OTP Verification  →  Live Face Recognition 
 > *Watch the complete end-to-end flow: Registration → Aadhaar OTP → Face Scan → Vote Cast → Dashboard*
 
 https://github.com/maddibilvasai4125/-Aadhaar-Verified-Online-Voting-System-Django-ML-/assets/demo/IMG_7822.mov
-
+https://github.com/user-attachments/assets/f11d1b46-c1ab-4314-94b9-82024e100286
 </div>
 
 ### 🖼️ Screenshots
