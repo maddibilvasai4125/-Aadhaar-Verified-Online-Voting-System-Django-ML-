@@ -86,7 +86,7 @@ Citizen Registration  →  Aadhaar OTP Verification  →  Live Face Recognition 
 
 > *Watch the complete end-to-end flow: Registration → Aadhaar OTP → Face Scan → Vote Cast → Dashboard*
 
-https://github.com/yourusername/aadhaar-verified-online-voting/assets/demo/IMG_7822.mov
+https://github.com/maddibilvasai4125/-Aadhaar-Verified-Online-Voting-System-Django-ML-/assets/demo/IMG_7822.mov
 
 </div>
 
