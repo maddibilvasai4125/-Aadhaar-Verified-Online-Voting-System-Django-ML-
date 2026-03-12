@@ -769,5 +769,5 @@ Made with ❤️ for a more accessible, secure, and transparent democracy.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/maddibilvasai4125)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bilva-sai-eswar-maddi/)
-
+![Profile Views](https://komarev.com/ghpvc/?username=maddibilvasai4125&color=4169E1&style=flat-square&label=Profile+Views)
 </div>
