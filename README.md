@@ -735,7 +735,7 @@ git push origin feature/your-amazing-feature
 This project is licensed under the **MIT License** — see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ```
-MIT License — © 2025 [Your Name]
+MIT License — © 2025 Bilva Sai Eswar Maddi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software... [see LICENSE.txt for full text]
